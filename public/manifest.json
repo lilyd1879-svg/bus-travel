@@ -1,0 +1,24 @@
+{
+  "name": "한국 시내버스 여행 - 100% 시내버스 전용 경로 플래너",
+  "short_name": "시내버스여행",
+  "description": "지하철·KTX·고속버스 0%! 오직 전국 시내버스로만 연결되는 최적 환승 경로 플래너 (오프라인 지원)",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/bus-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/bus-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
